@@ -7,5 +7,3 @@ potential = HardSpheres(1.0)
 # we will show how to use the density ramp
 
 using DataFrames, CSV
-
- 
